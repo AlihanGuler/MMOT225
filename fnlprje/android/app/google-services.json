@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331268254417",
+    "project_id": "fnlprje",
+    "storage_bucket": "fnlprje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331268254417:android:cc211c84c2a77191d8f3f0",
+        "android_client_info": {
+          "package_name": "com.fnlprje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331268254417-tbpo8t0mktbkld345qd4snikmmialukr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hN_W7M57wKUXYAfyhASlkKiZkOo1ErI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331268254417-tbpo8t0mktbkld345qd4snikmmialukr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
