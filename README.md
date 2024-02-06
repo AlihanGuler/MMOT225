@@ -1,3 +1,4 @@
-# MMOT225
+# HABER SİTESİ 
+
 Bulut Bilişim
 
